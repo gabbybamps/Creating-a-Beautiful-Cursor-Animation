@@ -1,0 +1,1 @@
+'This project displays a beautiful cursor animation which changes color as it is moved around on a screen. The cursor hides itself when it stops moving for 3 seconds or when it is moved outside the screen'
